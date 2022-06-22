@@ -33,14 +33,14 @@ MonoBehaviour:
   contentScenes:
   - Name: MRTKExamplesHubMainMenu
     Path: Assets/Samples/Mixed Reality Toolkit Examples/2.7.3/Experimental - ExamplesHub/Scenes/MRTKExamplesHubMainMenu.unity
-    Included: 1
-    BuildIndex: 1
+    Included: 0
+    BuildIndex: -1
     Tag: Untagged
     Asset: {fileID: 102900000, guid: 63a00118e809c754f9c7911bb85d635f, type: 3}
   - Name: HandInteractionExamples
     Path: Assets/Samples/Mixed Reality Toolkit Examples/2.7.3/Demos - HandTracking/Scenes/HandInteractionExamples.unity
-    Included: 1
-    BuildIndex: 0
+    Included: 0
+    BuildIndex: -1
     Tag: Untagged
     Asset: {fileID: 102900000, guid: 3dd4a396b5225f8469b9a1eb608bfa57, type: 3}
   - Name: ClippingExamples
@@ -75,8 +75,8 @@ MonoBehaviour:
     Asset: {fileID: 102900000, guid: b2d06bb8d7f107d4783a56c796c5c120, type: 3}
   - Name: HandMenuExamples
     Path: Assets/Samples/Mixed Reality Toolkit Examples/2.7.3/Demos - HandTracking/Scenes/HandMenuExamples.unity
-    Included: 1
-    BuildIndex: 2
+    Included: 0
+    BuildIndex: -1
     Tag: Untagged
     Asset: {fileID: 102900000, guid: 2792ec9767804e644906ab978f2eed23, type: 3}
   - Name: SlateExample
@@ -117,8 +117,8 @@ MonoBehaviour:
     Asset: {fileID: 102900000, guid: 2d6c43a82f3a88c4dbdc3b5e99a68d8a, type: 3}
   - Name: NearMenuExamples
     Path: Assets/Samples/Mixed Reality Toolkit Examples/2.7.3/Demos - HandTracking/Scenes/NearMenuExamples.unity
-    Included: 1
-    BuildIndex: 3
+    Included: 0
+    BuildIndex: -1
     Tag: Untagged
     Asset: {fileID: 102900000, guid: bf3eb3415bffceb41810526380c2c71c, type: 3}
   - Name: ScrollingObjectCollection
