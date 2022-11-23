@@ -9,5 +9,7 @@ EditorBuildSettings:
     path: Assets/Our Game/Scenes/DrawingGame.unity
     guid: 0df261975ff380b498ac83fbe9cc0479
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: aec21b4a2f0f64de6bdb9ed84e3c57f3, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 35d0c54795d5e41f99226d54b29605f8, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 616bdf37d1806504c8f05056f2f28187, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 00489c12db9a1144fac4a938ec1a5920, type: 2}
