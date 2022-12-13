@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b59b717758acf8a47a1c266c9125cd03
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MonteCarlo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: eac17431ae338604682a557bc3f32031, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
