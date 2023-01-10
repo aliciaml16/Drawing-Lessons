@@ -2860,7 +2860,7 @@ GameObject:
   - component: {fileID: 62923358}
   - component: {fileID: 62923357}
   - component: {fileID: 62923356}
-  - component: {fileID: 62923355}
+  - component: {fileID: 62923359}
   m_Layer: 0
   m_Name: Paper
   m_TagString: Untagged
@@ -2868,25 +2868,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &62923355
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 62923354}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  mObserverBehaviour: {fileID: 62923357}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: paper-v3
-  mDatasetName: Vuforia/DrawingGame.xml
-  mCastedBehaviour: {fileID: 62923357}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!114 &62923356
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2946,18 +2927,18 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: paper-v3
+  mTrackableName: texture_glasses
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/DrawingGame.xml
-  mAspectRatio: 0.705813
+  mAspectRatio: 0.538043
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.705813
+  mHeight: 0.538043
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 62923355}
+  mPreview: {fileID: 62923359}
 --- !u!4 &62923358
 Transform:
   m_ObjectHideFlags: 0
@@ -2974,6 +2955,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &62923359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 62923354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 62923357}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: texture_glasses
+  mDatasetName: Vuforia/DrawingGame.xml
+  mCastedBehaviour: {fileID: 62923357}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &71802791
 GameObject:
   m_ObjectHideFlags: 0
@@ -28568,8 +28568,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1412776636}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0.7071068, w: 0}
-  m_LocalPosition: {x: 0.0012, y: -0.01700002, z: 0.0019999743}
-  m_LocalScale: {x: 0.83203197, y: 0.50000024, z: 0.034729015}
+  m_LocalPosition: {x: 0.868, y: -0.01852, z: -1.123}
+  m_LocalScale: {x: 2.733878, y: 1.6428932, z: 0.11411207}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2041889634}

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="contrast-cm" size="29.700001 21.049515" />
+    <ImageTarget name="contrast" size="0.300000 0.212621" />
+    <ImageTarget name="texture_glasses" size="1.000000 0.538043" />
+    <ImageTarget name="Logo_qr" size="1.000000 1.004464" />
     <ImageTarget name="paper-v3" size="1.000000 0.705813" />
   </Tracking>
 </QCARConfig>
