@@ -180,6 +180,19 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -762,7 +775,7 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: Vuforia.Engine.HoloLens
-  metroPackageVersion: 10.13.11.0
+  metroPackageVersion: 10.13.24.0
   metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: PTC Inc.
@@ -813,7 +826,7 @@ PlayerSettings:
   metroSplashScreenUseBackgroundColor: 1
   platformCapabilities:
     WindowsStoreApps:
-      VideosLibrary: False
+      VideosLibrary: True
       HumanInterfaceDevice: False
       Location: False
       Chat: False
@@ -834,7 +847,7 @@ PlayerSettings:
       Microphone: True
       SharedUserCertificates: False
       InputInjectionBrokered: False
-      PicturesLibrary: False
+      PicturesLibrary: True
       RemovableStorage: False
       WebCam: True
       VoipCall: False
